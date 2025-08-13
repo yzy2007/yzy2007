@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @yzy2007
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Rust
+
+A freshman in programming.
